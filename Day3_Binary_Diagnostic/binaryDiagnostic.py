@@ -132,4 +132,4 @@ for i in range(len(foundCO2Rating)):
 
 print(CO2AsInt)
 
-print(O2AsInt * CO2AsInt)
+print(O2AsInt * CO2As)
