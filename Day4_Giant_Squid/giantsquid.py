@@ -1,3 +1,6 @@
+# GOSH DANGIT I FORGOT ENUMERATE EXISTED
+
+
 # Part 1
 
 from abc import abstractproperty
