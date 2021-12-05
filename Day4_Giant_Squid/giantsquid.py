@@ -1,9 +1,5 @@
 # GOSH DANGIT I FORGOT ENUMERATE EXISTED
-
-
 # Part 1
-
-from abc import abstractproperty
 
 
 input = open("giantsquid.txt", "r")
@@ -80,3 +76,6 @@ def playGame():
                                 boardsAlreadyWon.append(board)
 
 playGame()
+
+
+# Oops the transition to part 2 was so simple I forgot to separate the part 1 and 2 solutions
